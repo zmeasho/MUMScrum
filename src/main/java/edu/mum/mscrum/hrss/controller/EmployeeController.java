@@ -21,7 +21,7 @@ import edu.mum.mscrum.hrss.service.IEmployeeService;
 @Controller
 public class EmployeeController {
 	
-	@Autowired
+	@Autowiredcfhgvbnjmk
 	private IEmployeeService employeeService;
 	
 	@RequestMapping(value = "/addEmployee", method = RequestMethod.GET)
